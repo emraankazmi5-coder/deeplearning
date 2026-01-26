@@ -1,4 +1,4 @@
 # deeplearning
 my class work
-(https://www.linkedin.com/in/syed-muhammad-imran-7903258b/)
+(https://github.com/emraankazmi5-coder/deeplearning/edit/main/README.md)
 
